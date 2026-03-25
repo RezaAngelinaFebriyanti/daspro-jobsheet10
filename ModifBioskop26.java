@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class ModifBioskop26 {
     public static void main(String[] args) {
 

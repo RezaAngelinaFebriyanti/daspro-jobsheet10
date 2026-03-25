@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Numbers26 {
+public class ModifNumbers26 {
     public static void main(String[] args) {
 
         int[][] myNumbers = new int[3][];
